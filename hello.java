@@ -5,4 +5,8 @@ public class hello {
     public static void keseho() {
         System.out.println("Hello, Java!");
     }
+
+    public static void notifyuser() {
+        System.out.println("Notification: Hello, User!");
+    }
 }
