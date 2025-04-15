@@ -9,4 +9,8 @@ public class hello {
     public static void notifyuser() {
         System.out.println("Notification: Hello, User!");
     }
+
+    public static void Auth() {
+        System.out.println("Authentication");
+    }
 }
